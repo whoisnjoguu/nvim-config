@@ -1,6 +1,6 @@
 #!/bin/sh
 # Installs the nvim-config Neovim configuration (macOS + Linux).
-# Usage: curl -fsSL https://raw.githubusercontent.com/whoisnjoguu/nvim-config/main/install.sh | sh
+# Usage: curl -fsSL https://raw.githubusercontent.com/whoisnjoguu/nvim-config/master/install.sh | sh
 set -eu
 
 REPO_URL="https://github.com/whoisnjoguu/nvim-config"
