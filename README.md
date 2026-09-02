@@ -1,6 +1,8 @@
-# nvim
+# nvim-config
 
-Neovim config that feels like VS Code.
+Neovim config to make it feel like VS Code.
+
+<img width="1275" height="609" alt="Screenshot 2026-09-02 at 20 22 32" src="https://github.com/user-attachments/assets/f3093029-8813-41b9-b80e-a05276a915d6" />
 
 ## Install
 
